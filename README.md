@@ -14,7 +14,7 @@
 <a href="https://instagram.com/swarnim.9628?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/swarnim.9628?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swarnim_28569" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/swarnim_28569" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swarnimg39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/swarnimg39" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/swarnim_9628/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/swarnim_9628/" height="30" width="40" /></a>
+<a href="https://leetcode.com/swarnim_9628/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/swarnim_9628/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
