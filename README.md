@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Swarnim9628/Swarnim9628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hello 👋, Swarnim Here</h1>
 <h3 align="center">A Compitetive Programmer</h3>
 
