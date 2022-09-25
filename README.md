@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hello 👋, Swarnim Here</h1>
-<h3 align="center">A Compitetive Programmer</h3>
+<h3 align="center">A competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnim9628&label=Profile%20views&color=0e75b6&style=flat" alt="swarnim9628" /> </p>
 
