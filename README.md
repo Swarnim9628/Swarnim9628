@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hello 👋, Swarnim Here</h1>
 <h3 align="center">A competitive Programmer</h3>
 
